@@ -1,6 +1,6 @@
 train()
 {
-main=/users2/yxwang/work/codes/cl_bert/supervised_bert.py
+main=/Users/rachelsidney/Documents/university-of-tokyo/master-research/program/CLBT/supervised_bert.py
 
 vocab=trial_data/multi_vocab.txt
 vocab1=trial_data/en_vocab.txt
